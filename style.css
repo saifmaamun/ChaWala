@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.top{
+    display: flex;
+}
+.tl{
+    width: 50%;
+    background-image: url(./image/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+    margin: 40px 15px 50px 50px;
+}
+span{
+    color: lightgreen;
+}
+h2{
+    font-size: 35px;
+    margin: 40px 15px 50px 50px;
+}
+p{
+    font-size: 18px;
+    margin: 40px 15px 30px 50px;
+}
+.wiki{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: wheat;
+    border-radius: 50px 2px;
+    padding: 15px 30px;
+    background-image: linear-gradient(to left,lightgreen, black);
+    margin: 0px 15px 50px 50px;
+}
+.tr img{
+    padding-left: 100px;
+}
