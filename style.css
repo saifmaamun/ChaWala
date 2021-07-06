@@ -44,6 +44,10 @@ p{
     padding-left: 100px;
 }
 .mid{
+    background-image: url(./image/mid-bcg.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size:100%;
     display: flex;
     margin-bottom: 100px;
     box-shadow: inset 5px 5px 80px lightgreen;
@@ -58,6 +62,7 @@ p{
 .mr{
     width: 50%;
     padding-left: 200px;
+    margin-left: 50px;
 }
 
 .variant{
