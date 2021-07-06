@@ -77,25 +77,22 @@ p{
     display: flex;    
     margin-bottom: 100px;
 }
+h3{
+    font-size: 2rem;
+    padding: 10px 10px ;
+}
 .bottom img{
-    margin-bottom: 50px;
+    margin: 25px;
     border-radius: 10px;
 }
 .description{
-    padding-left: 0px;
+    padding: 10px 10px;
     margin: 0;
-    text-align: justify;
+    text-align: left;
 }
-.bl{
+.flex-3{
     width: 33%;
-    margin: 10px 40px;
-
-}
-.bm{
-    width: 33%;
-    margin: 10px 40px;
-
-}.br{
-    width: 33%;
-    margin: 10px 40px;
+    margin: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 40px lightgreen;
 }
